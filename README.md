@@ -2,7 +2,7 @@
 ByteOS to system operacyjny oraz bootloader.
 
 ## Informacja o aktualizacji
-Następna aktualizacja będzie wydana: 07.01.25 
+Uaktualnienie systemu jest opóźnione z powodów technicznych przepraszamy.
 
 ## Zastosowanie ByteOS
 Czemu możesz chcieć zobaczyć ByteOS jest to bardzo lekki system który może służyć do serwerów np. do hostowania stron cz nawet botów python.
